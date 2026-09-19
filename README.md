@@ -2,8 +2,8 @@
 
 A single-page portfolio site built with plain HTML5, CSS3 and vanilla JavaScript — no frameworks, no page builders. Built for **Project 01 (Beginner) — The Sky Gen Web Development track**.
 
-**Live site:** _add your deployed URL here_
-**Repository:** https://github.com/hasssan0777
+**Live site:** https://hassanportfolio-alpha.vercel.app
+**Repository:** https://github.com/hasssan0777/hassanportfolio
 
 ## Features
 
@@ -42,7 +42,7 @@ No build step is required.
 1. Download or clone the project folder.
 2. Open `index.html` directly in a browser, **or** serve it locally for the best experience:
    ```bash
-   npx serve .
+   npx serve.
    # or
    python3 -m http.server 8080
    ```
